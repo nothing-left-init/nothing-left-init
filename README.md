@@ -61,7 +61,7 @@
 
 ### A passionate Typescript developer
 
-- 🔭 I'm currently working on **COLLEGE MINI PROJECT COLLEGE MINI PROJECT College mini project**
+- 🔭 I'm currently working on **COLLEGE MINI PROJECT COLLEGE **
 
 - 🌱 I'm currently learning **“Currently learning Python, Bash scripting, JavaScript, and SQL for Ethical Hacking and cybersecurity applications.”**
 
